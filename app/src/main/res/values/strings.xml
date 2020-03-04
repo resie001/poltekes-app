@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Penghitung Berat Badan Ideal</string>
+    <string name="bmi">Rumus BMI</string>
+    <string name="brosca">Rumus Brosca</string>
+    <string name="bayi">Berat Badan Anak\n1 - 10 Tahun</string>
+    <string name="hamil">Berat Badan Ibu Hamil</string>
+    <string name="balita">Berat Badan Balita\n0 - 12 Bulan</string>
+    <string name="bb">Berat Badan</string>
+    <string name="enter_bb">Masukkan Berat Badan (kg)</string>
+    <string name="tb">Tinggi Badan</string>
+    <string name="enter_tb">Masukkan Tinggi Badan (cm)</string>
+    <string name="osteoporosis">Anda beresiko tinggi terhadap osteoporosis</string>
+    <string name="seranganJantung">Anda beresiko terkena penyakit jantung, kanker, dan diabetes level 2</string>
+    <string name="danger">situasi anda sekarang sangat rawan terhadap penyakit mematikan</string>
+    <string name="boy">Laki - Laki</string>
+    <string name="girl">Perempuan</string>
+    <string name="gender">Gender</string>
+    <string name="child">Umur Anak</string>
+    <string name="example">Contoh: 3 Tahun 4 Bulan</string>
+    <string name="year">Tahun</string>
+    <string name="input_year">Masukkan Umur Tahun (1 - 10)</string>
+    <string name="month">Bulan</string>
+    <string name="input_month">Masukkan Umur Bulan (0 - 12)</string>
+    <string name="calculate_child">Hitung</string>
+    <string name="toddler">Umur Balita</string>
+    <string name="enter_toddler">Masukkan umur Balita (0-12 Bulan)</string>
+    <string name="kehamilan_minggu">Umur Kehamilan Dalam Minggu</string>
+    <string name="enter_kehamilan">Masukkan Umur Kehamilan Dalam Satuan Minggu</string>
+</resources>
